@@ -1,7 +1,7 @@
 # Hello, I am Gregory Ribeiro! 👋
 ### Passion on web and mobile developments.🚀 
-- :telescópio: Currently working on: VueJS + Django + Java
--🔭  Studying about: AI | System Architecture
+- 🌱  Currently working on: VueJS + Django + Java
+- Studying about: AI | System Architecture
 ---
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
