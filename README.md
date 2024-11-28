@@ -1,7 +1,7 @@
-# Hello, I am Gregory Ribeiro! :abanando:
-### Passion on web and mobile developments. :foguete:
+# Hello, I am Gregory Ribeiro! 👋
+### Passion on web and mobile developments.🚀 
 - :telescópio: Currently working on: VueJS + Django + Java
-- :muda_de_planta: Studying about: AI | System Architecture
+-🔭  Studying about: AI | System Architecture
 ---
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -15,5 +15,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvps&layout=compact&theme=radical)
 ---
 ### Reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusvps/)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vpsmatheus13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/gregory-ribeiro-76b748272/))
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gregoryribeiro00@gmail.com)
