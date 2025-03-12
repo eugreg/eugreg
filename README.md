@@ -8,9 +8,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ---
-### GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eugreg&show_icons=true&theme=radical)
----
 ### Top Langs:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugreg&layout=compact&theme=radical)
 ---
