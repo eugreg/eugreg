@@ -9,10 +9,10 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ---
 ### GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusvps&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eugreg&show_icons=true&theme=radical)
 ---
 ### Top Langs:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvps&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugreg&layout=compact&theme=radical)
 ---
 ### Reach me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/gregory-ribeiro-76b748272/))
